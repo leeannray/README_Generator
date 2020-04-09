@@ -1,0 +1,23 @@
+{
+  "name": "readme_generator",
+  "version": "1.0.0",
+  "description": "Using Node.js and ES6+ Homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leenorman/README_Generator.git"
+  },
+  "author": "Lee Ann Norman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leenorman/README_Generator/issues"
+  },
+  "homepage": "https://github.com/leenorman/README_Generator#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "inquirer": "^7.1.0"
+  }
+}
