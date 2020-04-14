@@ -65,9 +65,9 @@ function startQuestion() {
 
             axios.get(queryUrl).then(function (res) {
 
-                let compinedData = { ...userResponse, ...res.data };
+                let combinedData = { ...userResponse, ...res.data };
 
-                let readmeFileTemp = generateMarkdown(compinedData)
+                let readmeFileTemp = generateMarkdown(combinedData)
 
                 writeToFile("ReadMeFile.md", readmeFileTemp);
 
