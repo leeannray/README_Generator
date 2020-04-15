@@ -91,17 +91,7 @@ Follow these guidelines for committing:
 
 * Test your application before you commit to ensure functionality at every step in the development process.
 
-We would like you to have more than 200 commits by graduation, so commit early and often!
+We would like you to have more than 200 commits by graduation, so commit early and often
 
-## Submission on BCS
-
-You are required to submit the following:
-
-* An animated GIF demonstrating the app functionality
-
-* A generated PDF of your GitHub profile
-
-* The URL of the GitHub repository
-
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+<img src="./assets/readmegenerator1.gif">
+<img src="./assets/readmegenerator2.gif">
